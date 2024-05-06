@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "fstream": "cpp",
+        "map": "cpp",
+        "__hash_table": "cpp",
+        "__locale": "cpp",
+        "compare": "cpp",
+        "filesystem": "cpp",
+        "ios": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "tuple": "cpp",
+        "typeinfo": "cpp",
+        "vector": "cpp",
+        "version": "cpp",
+        "iostream": "cpp",
+        "iosfwd": "cpp",
+        "ostream": "cpp"
+    }
+}

@@ -1,0 +1,26 @@
+
+	Round Robin: 
+
+	Time Stamp	Process Id	Status
+
+	1		1			Arrived
+	1		2			Arrived
+	1		1			Running
+	2		4			Arrived
+	4		0			Arrived
+	5		1			Arrived
+	5		2			Running
+	7		3			Arrived
+	7		2			Exit
+	7		4			Running
+	11		4			Arrived
+	11		0			Running
+	15		0			Exit
+	15		1			Running
+	18		1			Exit
+	18		3			Running
+	22		3			Exit
+	22		4			Running
+	26		4			Arrived
+	26		4			Running
+	27		4			Exit
